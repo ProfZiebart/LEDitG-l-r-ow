@@ -13,7 +13,7 @@
 #include <Adafruit_NeoPixel.h>  // for the Pixels...
 
 // Constants Second ////////////////////////////////////////////////////////////////
-#define LEDSPIN               12 // The Pin where the 470k Resistor leads to the First DIN of the LEDs
+#define LEDSPIN               14 // The Pin where the 470k Resistor leads to the First DIN of the LEDs
 #define MAXLEDS               12  // the Number of Neopixels attached. Cannot be defined while runtime.
 
 // Variables Third /////////////////////////////////////////////////////////////////
